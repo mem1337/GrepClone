@@ -8,7 +8,7 @@ class Program
         {
             string text = File.ReadAllText("TextFile");
             ScanText scanText = new ScanText(text);
-            Console.WriteLine("What are you searching for: ");
+            Console.Write("What are you searching for: ");
             Console.WriteLine(scanText.Search(Console.ReadLine()));
         }
     }
