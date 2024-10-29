@@ -3,7 +3,7 @@ namespace GrepClone;
 public class ScanText
 {
     public string Text {get; set;}
-    public string? Result { get; set; }
+    public string? Result;
     public ScanText(string text)
     {
         Text = text;

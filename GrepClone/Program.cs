@@ -6,7 +6,7 @@ class Program
     {
         while(true)
         {
-            string text = File.ReadAllText(@"TextFile");
+            string text = File.ReadAllText("TextFile");
             ScanText scanText = new ScanText(text);
             Console.WriteLine("What are you searching for: ");
             Console.WriteLine(scanText.Search(Console.ReadLine()));
