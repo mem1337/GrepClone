@@ -1,0 +1,15 @@
+/home/aleks/Projects/GrepClone/bin/Debug/net8.0/GrepClone
+/home/aleks/Projects/GrepClone/bin/Debug/net8.0/GrepClone.deps.json
+/home/aleks/Projects/GrepClone/bin/Debug/net8.0/GrepClone.runtimeconfig.json
+/home/aleks/Projects/GrepClone/bin/Debug/net8.0/GrepClone.dll
+/home/aleks/Projects/GrepClone/bin/Debug/net8.0/GrepClone.pdb
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.AssemblyInfoInputs.cache
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.AssemblyInfo.cs
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.csproj.CoreCompileInputs.cache
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.sourcelink.json
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.dll
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/refint/GrepClone.dll
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.pdb
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/GrepClone.genruntimeconfig.cache
+/home/aleks/Projects/GrepClone/obj/Debug/net8.0/ref/GrepClone.dll
