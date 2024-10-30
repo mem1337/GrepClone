@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrepClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d1406f7240a241daa72f3a38fa5f60a7e23ece")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b6a4762ac15a43b1bb387ebc1345cf6e1a76d46")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrepClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrepClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
